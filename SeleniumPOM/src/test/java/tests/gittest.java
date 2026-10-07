@@ -6,6 +6,8 @@ public class gittest {
 		
 		System.out.println("my first git test");
 		System.out.println("second pratcise");
+		System.out.println("selenium third practise");
+		System.out.println("selenium foruth line");
 
 	}
 
