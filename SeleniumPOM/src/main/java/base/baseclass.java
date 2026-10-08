@@ -24,9 +24,11 @@ import org.testng.annotations.BeforeMethod;
 	public void logout() throws InterruptedException {
 		
     Thread.sleep(5000);
-  //	driver.quit();
+    
+    driver.quit();
 	
     }
+    
 	}
 
 
