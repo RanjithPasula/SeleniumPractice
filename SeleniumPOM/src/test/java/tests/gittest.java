@@ -10,7 +10,7 @@ public class gittest {
 		System.out.println("selenium foruth line");
 		System.out.println("rk updated to 5");
 		System.out.println("rk update to 6");
-
+        System.out.println("I am pulling git tests");
 	}
 
 }
