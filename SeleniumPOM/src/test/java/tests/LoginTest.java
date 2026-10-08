@@ -17,8 +17,7 @@ public class LoginTest extends baseclass{
 
 	public void logintest() throws InterruptedException {
 
-		
-		      loginpage lp = new loginpage();
+	      loginpage lp = new loginpage();
 		                lp.login();  
 		          
 		        
