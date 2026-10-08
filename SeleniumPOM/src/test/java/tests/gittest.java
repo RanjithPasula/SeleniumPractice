@@ -8,6 +8,8 @@ public class gittest {
 		System.out.println("second pratcise");
 		System.out.println("selenium third practise");
 		System.out.println("selenium foruth line");
+		System.out.println("rk updated to 5");
+		System.out.println("rk update to 6");
 
 	}
 
